@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+A Flutter project helps you to organize and to double chek your to-do List
 
 ## Getting Started
 
